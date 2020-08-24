@@ -7,7 +7,7 @@ body #wall #tag-2 {
 #wall #tag-3.slick.wicked {
   display: none;
 }
-#wall.parent #tag-4 {
+#wall.parent > #tag-4 {
   display: none;
 }
 #wall.parent #tag-5.slick {

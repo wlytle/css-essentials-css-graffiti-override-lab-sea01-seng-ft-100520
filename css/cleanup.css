@@ -4,9 +4,9 @@
 body #wall #tag-2 {
   display: none;
 }
-#wall div.parent #tag-3.slick.wicked {
+#wall #tag-3.slick.wicked {
   display: none;
 }
-.parent #tag-4 {
+#wall.parent #tag-4 {
   display: none;
 }
